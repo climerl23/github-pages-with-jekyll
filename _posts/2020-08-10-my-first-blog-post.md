@@ -1,5 +1,5 @@
 ---
-title: My blog
+title: "My blog"
 date: 2020-08-10
 ---
 #Hello World
